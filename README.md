@@ -1,2 +1,2 @@
 # pradSwift
-![screen](master/screen/screens.png)
+![screen](../master/screen/screens.png)
