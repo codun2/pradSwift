@@ -1,2 +1,2 @@
 # pradSwift
-![screen](../master/screen/screens.png)
+![screen](https://github.com/codun2/pradSwift/blob/main/screen/screens.png)
